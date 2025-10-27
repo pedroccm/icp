@@ -132,6 +132,19 @@ O projeto está configurado para usar Supabase como banco de dados.
 - ✅ `supabase-schema.sql` - Schema SQL
 - ✅ `scripts/seed-personas.ts` - Script para popular dados
 
+## Deploy
+
+### Vercel (Recomendado)
+
+O projeto está pronto para deploy no Vercel. Siga o guia completo:
+
+📖 **[DEPLOY_VERCEL.md](DEPLOY_VERCEL.md)** - Instruções passo a passo
+
+**Resumo rápido:**
+1. Conecte o repositório GitHub ao Vercel
+2. Configure as variáveis de ambiente no Vercel Dashboard
+3. Deploy automático a cada push!
+
 ## Próximos Passos
 
 1. ✅ **Adicionar todas as personas** - Todas as 13 personas estão incluídas
