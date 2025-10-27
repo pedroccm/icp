@@ -120,7 +120,9 @@ O projeto está configurado para usar Supabase como banco de dados.
    npm run seed
    ```
 
-3. **Documentação completa**: Veja `SUPABASE_SETUP.md` para mais detalhes
+3. **Documentação completa**:
+   - `GUIA_SUPABASE.md` - Configuração e uso do Supabase
+   - `EXEMPLOS_SUPABASE.md` - Exemplos de código
 
 ### Arquivos de Configuração:
 
@@ -152,4 +154,3 @@ O projeto mantém o tema escuro do HTML original usando CSS custom properties:
 ## Licença
 
 Projeto RHEI - MADE ICP Personas
-# icp
