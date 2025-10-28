@@ -18,14 +18,14 @@ O erro `supabaseUrl is required` acontece porque o Vercel não tem acesso às va
 2. Adicione as seguintes variáveis:
 
 #### Variável 1:
-- **Name:** `NEXT_PUBLIC_SUPABASE_URL`
-- **Value:** `https://ynxopsogitjvbfuhdjoi.supabase.co`
+- **Name:** ``
+- **Value:** ``
 - **Environment:** Selecione todas (Production, Preview, Development)
 - Clique em **Add**
 
 #### Variável 2:
-- **Name:** `NEXT_PUBLIC_SUPABASE_ANON_KEY`
-- **Value:** `sb_publishable_Bpaed8BirwO0bKEq6z_iDA_yFmlE8_T`
+- **Name:** ``
+- **Value:** ``
 - **Environment:** Selecione todas (Production, Preview, Development)
 - Clique em **Add**
 
